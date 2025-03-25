@@ -5,7 +5,7 @@ This batch script hides the OneDrive folder in File Explorer on Windows and make
 
 ## How to Use
 
-1. Save the script as `hide_onedrive_and_create_task.bat`.
+1. Save the script as `OneDriveHider.bat`.
 2. Right-click the file and select "Run as administrator".
 
 ## Script Details
